@@ -19,3 +19,5 @@ RISCy consists of the following key components:
 **Partial Load and Store Units:** Facilitate loading and storing of data from/to memory.
 
 **Register File:** Stores and manages the CPU's registers.
+
+<img width="1142" alt="Screenshot 2023-09-18 at 3 24 41 PM" src="https://github.com/sollyWolly/RISCy/assets/55569594/aa1a69f0-f8e4-4812-8086-6b582c0797f3">
